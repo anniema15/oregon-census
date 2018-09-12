@@ -1,2 +1,4 @@
 # oregon-census
-An analysis of Census population estimates data to draw out stories on aging and diversity 
+An analysis of Census population estimates data to draw out stories on aging and diversity, published in the Oregonian. 
+
+Story on aging: https://www.oregonlive.com/pacific-northwest-news/index.ssf/2017/06/baby_boomers_make_over-50_the.html
